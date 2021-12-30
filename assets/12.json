@@ -1,0 +1,38 @@
+{
+  "name": "Meta UFO #12",
+  "symbol": "MM",
+  "description": "A unique UFO NFT from an exclusive 333 MMAC Founders Edition with gaming utility.",
+  "seller_fee_basis_points": 600,
+  "image": "image.png",
+  "external_url": "https://mixedmartianartsclub.io/",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "BGs",
+      "value": "BG4"
+    },
+    {
+      "trait_type": "Obstacles",
+      "value": "MARTIANCOIN1"
+    },
+    {
+      "trait_type": "UFOS",
+      "value": "Spaceship5"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "CeikR31PbsNoddWeqGk9whbX3H8WJMhXQY4GMUxMZfYu",
+        "share": 100
+      }
+    ]
+  }
+}
